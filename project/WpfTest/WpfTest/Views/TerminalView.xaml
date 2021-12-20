@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="WpfTest.Views.TerminalView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             DataContext="{Binding Source={StaticResource Locator}, Path=Terminal}">
+    <StackPanel>
+        <TextBlock FontSize="40" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Terminal.Number}"/>
+        <TextBlock FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Plane.Flight}"/>
+        <TextBlock FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Plane.Status}"/>
+    </StackPanel>
+</UserControl>

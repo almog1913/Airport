@@ -1,0 +1,150 @@
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\Dmitriy\source\repos\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Dmitriy\source\repos\WpfTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy\source\repos\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\BL\obj\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\obj\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\BL\obj\Debug\BL.pdb

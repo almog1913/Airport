@@ -1,0 +1,143 @@
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.Migrations.Start.resources
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Dmitriy\source\repos\WpfTest\DAL\obj\Debug\DAL.Migrations.Terminals.resources
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.Migrations.Start.resources
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.Migrations.Terminals.resources
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.Migrations.Start.resources
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.Migrations.Terminals.resources
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.Migrations.Start.resources
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.Migrations.Terminals.resources
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\obj\Debug\DAL.Migrations.Start.resources
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\obj\Debug\DAL.Migrations.Terminals.resources
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.Migrations.Start.resources
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.Migrations.Terminals.resources
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\DAL\obj\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\obj\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\DAL\obj\Debug\DAL.pdb

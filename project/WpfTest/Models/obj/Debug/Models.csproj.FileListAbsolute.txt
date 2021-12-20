@@ -1,0 +1,53 @@
+C:\Users\Dmitriy\source\repos\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\Dmitriy\source\repos\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\Dmitriy\source\repos\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\Models\obj\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\Models\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\Models\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\Models\obj\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\Models\obj\Debug\Models.pdb

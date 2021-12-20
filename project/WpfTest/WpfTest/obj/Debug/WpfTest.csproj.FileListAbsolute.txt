@@ -1,0 +1,542 @@
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.csprojAssemblyReference.cache
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy\source\repos\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\liors\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\liors\OneDrive\Desktop\final project\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\dimio\OneDrive\Рабочий стол\WpfTest\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\tomer\Desktop\Final Project\New folder\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ronco\OneDrive\Desktop\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\97250\Desktop\פיתוח תוכנה\final project\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\tomer\Desktop\Final Project\New folder עם DB\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\tomer\Desktop\Final Project\מוכן להגשה\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.csprojAssemblyReference.cache
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\almog\OneDrive\שולחן העבודה\WpfTest123123\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.csprojAssemblyReference.cache
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\almog\OneDrive\שולחן העבודה\project\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\WpfTest.exe
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\WpfTest.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\CommonServiceLocator.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\Models.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\Services.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\BL.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\DAL.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\EntityFramework.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\Models.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\Services.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\BL.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\DAL.pdb
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\DAL.dll.config
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\EntityFramework.xml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.csprojAssemblyReference.cache
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.baml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\Views\TerminalView.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\App.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.cache
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest_MarkupCompile.lref
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\App.baml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\MainWindow.baml
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.g.resources
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resources.resources
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.cache
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CoreCompileInputs.cache
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.CopyComplete
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.exe
+C:\Users\almog\OneDrive\שולחן העבודה\final project\project\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
